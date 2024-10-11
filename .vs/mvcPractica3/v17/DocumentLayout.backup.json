@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pw2-p\\mvcPractica3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEF258-7BE8-4DAD-8FDF-97275D085DB1}|mvcPractica3\\mvcPractica3.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCEF258-7BE8-4DAD-8FDF-97275D085DB1}|mvcPractica3\\mvcPractica3.csproj|solutionrelative:mvcpractica3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3.accesodatos\\data\\repository\\almacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|solutionrelative:mvcpractica3.accesodatos\\data\\repository\\almacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3.accesodatos\\data\\repository\\irepository\\ialmacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|solutionrelative:mvcpractica3.accesodatos\\data\\repository\\irepository\\ialmacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|solutionrelative:mvcpractica3.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3.accesodatos\\data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|solutionrelative:mvcpractica3.accesodatos\\data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E40E2A-8632-4BF5-8AF8-46956CDECAE8}|mvcPractica3.AccesoDatos\\mvcPractica3.AccesoDatos.csproj|solutionrelative:mvcpractica3.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC08F2D-9BA3-4A3D-9D20-52AAE448DD28}|mvcPractica3.Models\\mvcPractica3.Models.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3.models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC08F2D-9BA3-4A3D-9D20-52AAE448DD28}|mvcPractica3.Models\\mvcPractica3.Models.csproj|solutionrelative:mvcpractica3.models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEF258-7BE8-4DAD-8FDF-97275D085DB1}|mvcPractica3\\mvcPractica3.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFCEF258-7BE8-4DAD-8FDF-97275D085DB1}|mvcPractica3\\mvcPractica3.csproj|solutionrelative:mvcpractica3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEF258-7BE8-4DAD-8FDF-97275D085DB1}|mvcPractica3\\mvcPractica3.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCEF258-7BE8-4DAD-8FDF-97275D085DB1}|mvcPractica3\\mvcPractica3.csproj|solutionrelative:mvcpractica3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCEF258-7BE8-4DAD-8FDF-97275D085DB1}|mvcPractica3\\mvcPractica3.csproj|c:\\pw2-p\\mvcpractica3\\mvcpractica3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFCEF258-7BE8-4DAD-8FDF-97275D085DB1}|mvcPractica3\\mvcPractica3.csproj|solutionrelative:mvcpractica3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlmacenRepository.cs",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "RelativeDocumentMoniker": "mvcPractica3.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "RelativeToolTip": "mvcPractica3.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:25:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAlmacenRepository.cs",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "RelativeDocumentMoniker": "mvcPractica3.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "RelativeToolTip": "mvcPractica3.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:24:26.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "mvcPractica3.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "mvcPractica3.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:22:45.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "mvcPractica3.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "mvcPractica3.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:21:24.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mvcPractica3.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mvcPractica3.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:20:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3\\Program.cs",
+              "RelativeDocumentMoniker": "mvcPractica3\\Program.cs",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3\\Program.cs",
+              "RelativeToolTip": "mvcPractica3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:48:13.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Almacen.cs",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.Models\\Almacen.cs",
+              "RelativeDocumentMoniker": "mvcPractica3.Models\\Almacen.cs",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3.Models\\Almacen.cs",
+              "RelativeToolTip": "mvcPractica3.Models\\Almacen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:13:06.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcPractica3\\appsettings.json",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3\\appsettings.json",
+              "RelativeToolTip": "mvcPractica3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T18:59:31.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcPractica3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcPractica3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T18:53:40.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap5.min.css",
+              "DocumentMoniker": "C:\\pw2-p\\mvcPractica3\\mvcPractica3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeDocumentMoniker": "mvcPractica3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ToolTip": "C:\\pw2-p\\mvcPractica3\\mvcPractica3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeToolTip": "mvcPractica3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ViewState": "AgIAAK40AAAAAAAAAAAswNc0AAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T18:52:29.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

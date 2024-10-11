@@ -1,0 +1,11 @@
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\bin\Debug\net8.0\mvcPractica3.Models.deps.json
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\bin\Debug\net8.0\mvcPractica3.Models.dll
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\bin\Debug\net8.0\mvcPractica3.Models.pdb
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\obj\Debug\net8.0\mvcPractica3.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\obj\Debug\net8.0\mvcPractica3.Models.AssemblyInfoInputs.cache
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\obj\Debug\net8.0\mvcPractica3.Models.AssemblyInfo.cs
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\obj\Debug\net8.0\mvcPractica3.Models.csproj.CoreCompileInputs.cache
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\obj\Debug\net8.0\mvcPractica3.Models.dll
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\obj\Debug\net8.0\refint\mvcPractica3.Models.dll
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\obj\Debug\net8.0\mvcPractica3.Models.pdb
+C:\pw2-p\mvcPractica3\mvcPractica3.Models\obj\Debug\net8.0\ref\mvcPractica3.Models.dll
